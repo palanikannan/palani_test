@@ -27,7 +27,7 @@ for(Cookie cookie : cookies){
 <br>
 User=<%=user %>
 <br>
-<h1>hello you logged in success</h1>
+<h1>now modified</h1>
 <a href="CheckoutPage.jsp">Checkout Page</a>
 <form action="LogoutServlet" method="post">
 <input type="submit" value="Logout" >
